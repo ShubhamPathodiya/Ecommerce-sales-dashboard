@@ -87,5 +87,5 @@ superstore-sales-dashboard/
 ---
 
 ## 🔗 Connect
-- 💼 LinkedIn: linkedin.com/in/shubham-pathodiya-a1010a374
+- 💼 LinkedIn: https://linkedin.com/in/shubham-pathodiya-a1010a374
 - 🐙 GitHub: https://github.com/ShubhamPathodiya/Ecommerce-sales-dashboard
